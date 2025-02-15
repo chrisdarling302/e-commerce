@@ -319,7 +319,7 @@ FEATURED
 
 #featured {
     padding-top: 8vw;
-    height: 1000px;
+    height: 750px;
     background-color: rgba(115, 66, 214, 0.1);
 }
 
@@ -435,6 +435,9 @@ footer {
 
     .book {
         width: 50%;
+    }
+    #featured {
+        height: 1050px;
     }
 }
 
